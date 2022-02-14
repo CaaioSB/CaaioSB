@@ -9,9 +9,9 @@ class Me {
     this.nationality = 'Brazilian'
     this.work = 'Nave.rs'
     this.languages = ['C#', 'Javascript']
-    this.learning = ['NodeJS', 'React', 'Python']
-    this.interests = ['Automation', 'Mongo', 'Arduino', 'Blockchain']
-    this.freetime = ['Programming 💻', 'Cryptocurrencies 💰', 'Astronomy 🔭']
+    this.learning = ['NodeJS', 'React']
+    this.interests = ['Automation', 'Mongo', 'Arduino', 'Blockchain', 'Aviation']
+    this.freetime = ['Programming 💻', 'Cryptocurrencies 💰', 'Astronomy 🔭', 'Aviation ✈️']
   }
 }
 ```
