@@ -4,7 +4,7 @@ Hello 👋
 class Me {
   constructor(name, age, abstract, nationality, work, languages, learning, interests, freetime) {
     this.name = 'Caio Silva'
-    this.age = '19'
+    this.age = '20'
     this.abstract = 'Lover of technology and aspiring in futurism, design in the blood and programming in the vein.'
     this.nationality = 'Brazilian'
     this.work = 'Nave.rs'
