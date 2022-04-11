@@ -7,7 +7,7 @@ class Me {
     this.age = '20'
     this.abstract = 'Lover of technology and aspiring in futurism, design in the blood and programming in the vein.'
     this.nationality = 'Brazilian'
-    this.work = 'Nave.rs'
+    this.work = 'Loggi'
     this.languages = ['C#', 'Javascript']
     this.learning = ['NodeJS', 'React']
     this.interests = ['Automation', 'Mongo', 'Arduino', 'Blockchain', 'Aviation']
