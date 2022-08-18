@@ -16,7 +16,11 @@ class Me {
 }
 ```
 
-![Caio's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaaioSB&show_icons=true&theme=github_dark&include_all_commits=true)
+<div align="center">
+  <a href="https://github.com/CaaioSB">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaaioSB&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaaioSB&layout=compact&langs_count=7&theme=github_dark"/>
+</div>
 
 [![LINKEDIN](https://img.shields.io/badge/LINKEDIN%20-%23323330.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/caiosilvabatista/)
 [![INSTAGRAM](https://img.shields.io/badge/INSTAGRAM%20-%23323330.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=blueviolet)](https://www.instagram.com/caaio.sb/)
