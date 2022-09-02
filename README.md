@@ -18,8 +18,8 @@ class Me {
 
 <div align="center">
   <a href="https://github.com/CaaioSB">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaaioSB&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaaioSB&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caaiosb&count_private=true&include_all_commits=true&show_icons=true&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caaiosb&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
 [![LINKEDIN](https://img.shields.io/badge/LINKEDIN%20-%23323330.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/caiosilvabatista/)
