@@ -1,26 +1,4 @@
-Hello 👋
-
-```javascript
-class Me {
-  constructor(name, age, abstract, nationality, work, languages, learning, interests, freetime) {
-    this.name = 'Caio Silva'
-    this.age = '20'
-    this.abstract = 'Lover of technology and aspiring in futurism, design in the blood and programming in the vein.'
-    this.nationality = 'Brazilian'
-    this.work = ['caiosb', 'Verde']
-    this.languages = ['C#', 'Javascript']
-    this.learning = ['NodeJS', 'React']
-    this.interests = ['Automation', 'Mongo', 'Arduino', 'Blockchain', 'Aviation']
-    this.freetime = ['Programming 💻', 'Cryptocurrencies 💰', 'Astronomy 🔭', 'Aviation ✈️']
-  }
-}
-```
-
-<div align="center">
-  <a href="https://github.com/CaaioSB">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caaiosb&count_private=true&include_all_commits=true&show_icons=true&theme=github_dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caaiosb&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
+![Metrics](https://metrics.lecoq.io/CaaioSB?template=classic&languages=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.threshold=0%25&languages.other=false&languages.colors=javascript%3A%2300AB55%2C%20c%3A%23FFFFFF%2C%20c%23%3A%23B1B1B1%2C%20html%3A%232D2E32%2C%20typescript%3A%2325262A%2C%20css%3A%23009248%2C%20python%3A%23005f2f%2C%20shell%3A%2300f87b&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=America%2FSao_Paulo)
 
 [![LINKEDIN](https://img.shields.io/badge/LINKEDIN%20-%23323330.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/caiosilvabatista/)
 [![INSTAGRAM](https://img.shields.io/badge/INSTAGRAM%20-%23323330.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=blueviolet)](https://www.instagram.com/caaio.sb/)
